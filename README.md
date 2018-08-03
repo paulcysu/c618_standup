@@ -11,5 +11,5 @@ https://docs.google.com/document/d/e/2PACX-1vRnGANrXQ1LnhI45krF8DCQ0bmNp7ywD0vsx
 - Mike Yim
 
 ### mentors
-- 
-- 
+- Cody
+- Tim
